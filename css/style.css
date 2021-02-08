@@ -466,7 +466,7 @@ BODY.ru .en {
   }
   .photo-name .photo-name__language-toggle.active {
     right: 1%;
-    top: 70%;
+    top: 64%;
     display: block;
     z-index: 150;
   }
